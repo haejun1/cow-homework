@@ -1,0 +1,23 @@
+#name{
+    font-size: xx-small;
+    color: hotpink;
+    background-color: blue;
+}
+#head{
+    background-color: aqua;
+}
+#article{
+    background-color: brown;
+    width: 700px;
+    text-align: center;
+}
+#footer{
+    background-color: burlywood;
+}
+#childarticle{
+    background-color: blueviolet;
+    text-align: end;
+    margin: 10px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+}
